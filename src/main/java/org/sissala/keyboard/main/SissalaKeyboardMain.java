@@ -1,5 +1,4 @@
 /**
- * Copyright 2015 Sissala Heritage Foundation
  * Copyright 2015 Yeongdeok Suh <skyducks111@gmail.com>
  */
 
