@@ -1,4 +1,4 @@
-# Sissala Keyboard
+#Sissala Keyboard
 
 This is an software keyboard for Sissala, Ghana. This project was proposed by Sissala Heritage Foundation, and developed via United Nations Volunteers.
 
@@ -6,10 +6,10 @@ This is an software keyboard for Sissala, Ghana. This project was proposed by Si
 - [UN Volunteers](http://www.unv.org)
 - [UNV Online](https://www.onlinevolunteering.org)
 
-#How to Use
+##How to Use
 - toggle English/Sissala: Ctrl+Space
 
-#Things To-do
+##Things To-do
 - Develop mouse button
 - Improve compatibility between different systems (Win, OSX, Linux)
 - Android version development.
